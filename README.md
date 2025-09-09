@@ -13,40 +13,40 @@ The main function demonstrates how the system works in sequential steps:
 
 1. Create Library  
 
-Initializes a library named "Central Library".  
+  Initializes a library named "Central Library".  
 
-3. Add Librarians  
+2. Add Librarians  
 
-Creates two librarians (Alice and Luna) and adds them to the library.  
+  Creates two librarians (Alice and Luna) and adds them to the library.  
 
 3. Create Books  
 
-Creates three books: Harry Potter, Five Survive, Six of Crows
+  Creates three books: Harry Potter, Five Survive, Six of Crows
 
 4. Librarians Add Books  
 
-- Alice adds Harry Potter and Five Survive.  
+  - Alice adds Harry Potter and Five Survive.  
 
-- Luna adds Six of Crows.  
+  - Luna adds Six of Crows.  
 
-4. Register Members  
+5. Register Members  
 
-Two members (Monica and Pip) register with the library.  
+  Two members (Monica and Pip) register with the library.  
 
-5. Member Actions
+6. Member Actions
 
-- Monica logs in, borrows Harry Potter and Five Survive.  
+  - Monica logs in, borrows Harry Potter and Five Survive.  
 
-- Pip logs in and tries to borrow Harry Potter (fails because it’s borrowed).  
+  - Pip logs in and tries to borrow Harry Potter (fails because it’s borrowed).  
 
-- Monica returns Harry Potter, and then Pip borrows it.  
+  - Monica returns Harry Potter, and then Pip borrows it.  
 
-- Monica returns Five Survive.  
+  - Monica returns Five Survive.  
 
-6. Librarian Removes a Book  
+7. Librarian Removes a Book  
 
-Luna removes Six of Crows from the library.  
+  Luna removes Six of Crows from the library.  
 
-7. Remove Librarian  
+8. Remove Librarian  
 
-The library removes Luna from its list of librarians.  
+  The library removes Luna from its list of librarians.  
