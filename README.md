@@ -13,15 +13,15 @@ The main function demonstrates how the system works in sequential steps:
 
 1. Create Library  
 
-  Initializes a library named "Central Library".  
+  - Initializes a library named "Central Library".  
 
 2. Add Librarians  
 
-  Creates two librarians (Alice and Luna) and adds them to the library.  
+  - Creates two librarians (Alice and Luna) and adds them to the library.  
 
 3. Create Books  
 
-  Creates three books: Harry Potter, Five Survive, Six of Crows
+  - Creates three books: Harry Potter, Five Survive, Six of Crows
 
 4. Librarians Add Books  
 
@@ -31,7 +31,7 @@ The main function demonstrates how the system works in sequential steps:
 
 5. Register Members  
 
-  Two members (Monica and Pip) register with the library.  
+  - Two members (Monica and Pip) register with the library.  
 
 6. Member Actions
 
@@ -45,8 +45,8 @@ The main function demonstrates how the system works in sequential steps:
 
 7. Librarian Removes a Book  
 
-  Luna removes Six of Crows from the library.  
+  - Luna removes Six of Crows from the library.  
 
 8. Remove Librarian  
 
-  The library removes Luna from its list of librarians.  
+  - The library removes Luna from its list of librarians.  
